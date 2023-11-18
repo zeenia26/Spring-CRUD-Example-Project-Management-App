@@ -94,9 +94,9 @@
                     <schemas>
                         <schema>bugtracker</schema>
                     </schemas>
-                    <url>jdbc:mysql://localhost:3306?serverTimezone=UTC</url>
+                    <url>jdbc:mysql://mysqldb.default.svc.cluster.local:3306?serverTimezone=UTC</url>
                     <user>root</user>
-                    <password>Chris93!</password>
+                    <password>1bCECgB6fB</password>
                 </configuration>
             </plugin>
         </plugins>
